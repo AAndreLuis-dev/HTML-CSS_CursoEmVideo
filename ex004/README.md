@@ -1,5 +1,6 @@
 # Exercício 004
 ## Teste de favicon
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex004/imgex004-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
