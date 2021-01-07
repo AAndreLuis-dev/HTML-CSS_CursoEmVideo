@@ -1,5 +1,6 @@
 # Exercício 003
 ## Testando carga de imagem.
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex003/imgex003.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
