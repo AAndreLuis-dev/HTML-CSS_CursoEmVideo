@@ -1,5 +1,5 @@
 # Exercício 001
-
+![ResultPic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex001/ex001pic.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
