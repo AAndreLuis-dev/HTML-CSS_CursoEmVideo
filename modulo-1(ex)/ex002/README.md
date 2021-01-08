@@ -1,6 +1,6 @@
 # Exercício 002
 ## Parágrafos e quebra de linha
-![resultPic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex002/imgex002.png)
+![resultPic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/modulo-1(img)/imgex002.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
