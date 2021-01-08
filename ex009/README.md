@@ -1,0 +1,89 @@
+# Exercício 009
+## Listas
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Icons8-Ios7-Programming-Console.ico" type="image/x-icon">
+    <title>Listas</title>
+</head>
+<body>
+    <h1>Trabalhando com listas</h1>
+    <h2>Listas Ordenadas</h2>
+    <ol type="1" start="0"> <!-- 1 A a I i-->
+        <li>Acordar</li>
+        <li>Olhar o celular</li>
+        <li>Tomar café</li>
+        <li>Tomar banho</li>
+        <li>Ir pra faculdade</li>
+        <li>Ir pro trabalho</li>
+        <li>Ir pra casa</li>
+        <li>Jantar</li>
+        <li>Tomar banho</li>
+        <li>Dormir</li>
+    </ol>
+    <h2>Listas não Ordenadas</h2>
+    <ul type="circle"> <!-- disc circle square-->
+        <h3>Listas de compra:</h3>
+        <li>Pão</li>
+        <li>Queijo</li>
+        <li>Presunto</li>
+        <li>Feijão</li>
+        <li>Arroz</li>
+    </ul>
+    <h2>Juntando Listas 1.0</h2>
+    <ul type="disc">
+        <h3>Minhas linguagens favoritas</h3>
+        <li>Antigas</li>
+        <ol type="1">
+            <li>Clipper</li>
+            <li>Visual basic</li>
+            <li>Fortran</li>
+            <li>Delphi</li>
+        </ol>
+        <li>Novas</li>
+        <ol>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>Ruby</li>
+        </ol>
+    </ul>
+    <h2>Meus jogos favoritos</h2>
+    <ol>
+        <li>PlayStation2</li>
+        <ul type="disc">
+            <li>God Of Wars</li>
+            <li>Black</li>
+            <li>Clastlevania</li>
+        </ul>
+        <li>Xbox360</li>
+        <ul type="disc">
+        <li> Assassin's Creed</li>
+        <ul type="circle">
+            <li>Assassin's Creed III</li>
+            <li>Assassin's Creed: Brotherhood</li>
+        </ul>
+        <li>GTA V</li>
+        <li>Forza</li>
+        </ul>
+        <li>Pc</li>
+        <ul type="disc">
+            <li>Paladins</li>
+            <li> League Of Legends </li>
+            <li> World Of Warcreft</li>
+        </ul>
+    </ol>
+    <h2>Lista de definições</h2>
+    <dl><!--Lista-->
+        <dt>HTML</dt><!--Definição Termo-->
+        <dd>Linguagem de marcação para a criação de conteúdo de um site.</dd><!--Descrição-->
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para o desing de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de pogramação para a criação de interatividade de um site.</dd>
+    </dl>
+</body>
+</html>
+```
