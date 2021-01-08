@@ -1,7 +1,7 @@
 # Exercício 010
 ## Trabalhando com Links
 ### Index(Página 001)
-![]()
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex010/imgex010-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -26,7 +26,7 @@
 </html>
 ```
 ### Página 002
-![]()
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex010/imgex010-2-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -44,7 +44,7 @@
 </html>
 ```
 ### Página 003
-"[]()
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex010/imgex010-3-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
