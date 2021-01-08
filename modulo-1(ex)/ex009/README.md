@@ -1,6 +1,6 @@
 # Exercício 009
 ## Listas
-![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex009/imgex009-edit.png)
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/modulo-1(img)/imgex009-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
