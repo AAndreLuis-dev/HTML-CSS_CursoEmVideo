@@ -1,5 +1,6 @@
 # Exercício 006
 ## Hierarquia de Títulos
+![Resultpic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex006/imgex006-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
