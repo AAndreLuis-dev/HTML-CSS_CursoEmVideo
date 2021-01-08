@@ -1,5 +1,6 @@
 # Exercícios 008
 ## Outras formatações
+![Result pic](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/ex008/imgex008-edit.png)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
