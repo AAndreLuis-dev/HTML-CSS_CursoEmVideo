@@ -1,6 +1,6 @@
 # Desafio 003
 ## Mapa Mundi
-![]()
+![ResultImg](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/modulo-1(img)/d003-edit.jpeg)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
