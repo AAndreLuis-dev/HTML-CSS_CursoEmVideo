@@ -18,4 +18,4 @@
     <img src="mapa06.png" alt="brasil"> <img src="mapa02.png" alt="África do sul"> <img src="mapa04.png" alt="Australia"></p>
 </body>
 </html> 
-```
+```'
