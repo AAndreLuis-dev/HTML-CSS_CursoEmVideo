@@ -1,6 +1,6 @@
 # Desafio 004
 ## Meus emojis favoritos
-![d004]()
+![d004](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/modulo-1(img)/d004img-edit.jpeg)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
