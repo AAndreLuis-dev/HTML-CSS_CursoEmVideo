@@ -1,6 +1,6 @@
 # Exercício 011
 ##  Mídias em HTML5
-![Result]()
+![Result](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/modulo-01/modulo-1(img)/ex011.jpeg)
 
 ```html
 <!DOCTYPE html>
