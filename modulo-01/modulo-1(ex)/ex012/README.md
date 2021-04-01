@@ -1,6 +1,6 @@
 # Exercício
 ## Videos com HTML5
-![Result]()
+![Result](https://github.com/AAndreLuis-dev/HTML-CSS_CursoEmVideo/blob/main/modulo-01/modulo-1(img)/imgex012.jpeg)
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
